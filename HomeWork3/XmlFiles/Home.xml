@@ -1,0 +1,14 @@
+<xml version="1.1" encoding="windows-1251"?> 
+<home>
+   <room name = "My Room">
+        <furniture>sofa</furniture>
+        <furniture>computer desk</furniture>
+        <furniture>wardrobe</furniture>
+        <furniture>chest</furniture>
+    </room>
+        <bathroom>
+             <furniture>bath</furniture>
+             <furniture>washbasin</furniture>
+             <furniture>mirror</furniture>
+        </bathroom>
+</home>

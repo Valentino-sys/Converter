@@ -1,0 +1,7 @@
+<suite name="XMLParserSuite" verbose="1" >
+    <test name="test for xml parser" >
+        <classes>
+            <class name="XMLParserTest" />
+        </classes>
+    </test>
+</suite>

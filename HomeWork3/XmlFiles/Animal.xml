@@ -1,0 +1,15 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+  <king>Lion</king>
+     <mammals>
+          <animal type = "artiodactyls">Cow</animal>
+          <animal type = "ungulates">Horse</animal>
+          <animal type = "primate">Monkey</animal>
+     </mammals>
+         <reptiles>
+                  <animal type = "snakes">Cobra</animal>
+                  <animal type = "snakes">Anakonda</animal>
+                  <animal type = "snakes">Viper</animal>
+         </reptiles>
+
+</animal>
